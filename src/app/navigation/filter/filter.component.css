@@ -1,0 +1,64 @@
+::ng-deep .ng-star-inserted,
+::ng-deep .mat-select-arrow {
+    color: #A4A4A4 !important;
+}
+
+::ng-deep .mat-select-trigger {
+    padding-top: 6px;
+    height: 2.125em;
+    padding-bottom: 5px;
+}
+
+::ng-deep .mat-checkbox-inner-container-no-side-margin {
+    width: 21px !important;
+    height: 21px !important;
+    border: 1px solid #fff;
+    border-radius: 4px !important;
+}
+
+::ng-deep .mat-form-field-appearance-legacy .mat-form-field-label {
+    margin-top: -9px;
+    margin-left: 17px;
+    font-size: 14px;
+}
+
+::ng-deep .mat-form-field-appearance-legacy .mat-form-field-wrapper {
+    padding-bottom: 0.8em;
+}
+
+::ng-deep .mat-form-field {
+    padding: unset;
+}
+
+::ng-deep input.mat-input-element {
+    margin-top: -17px;
+    height: 34px;
+    min-height: 10px;
+    padding-left: 15px;
+    letter-spacing: 1px !important;
+}
+
+::ng-deep .mat-checkbox-checked.mat-accent .mat-checkbox-background, .mat-checkbox-indeterminate.mat-accent .mat-checkbox-background {
+    background-color: unset !important;
+}
+
+::ng-deep .mat-checkbox-ripple.mat-ripple .mat-ripple-element {
+    background-color: green !important;
+}
+
+::ng-deep .mat-checkbox-checkmark-path {
+    stroke: #00ff00!important;
+    stroke-width: 3.6px !important;
+}
+
+::ng-deep .mat-option-text {
+    opacity: 0.7;
+    font-weight: 600;
+}
+.form-group {
+    max-height: 48px !important;
+}
+
+.full-width {
+    widows: 100%;
+}
